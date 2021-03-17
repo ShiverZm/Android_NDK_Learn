@@ -1,4 +1,6 @@
 # Built application files
+
+
 *.apk
 *.aar
 *.ap_
@@ -83,3 +85,15 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#vs 
+.vs
+*.db
+*.VC.opendb
+*.recipe
+ipch
+*.obj
+/VSBuildSoTest/ASTestApp/.idea
+/VSBuildSoTest/VS2015SoProject/SharedObject1/ARM64/Release/SharedObject1.tlog
+/VSBuildSoTest/VS2015SoProject/SharedObject1/ARM/Debug/SharedObject1.tlog
+/VSBuildSoTest/VS2015SoProject/SharedObject1/x86/Debug/SharedObject1.tlog
