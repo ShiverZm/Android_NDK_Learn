@@ -93,7 +93,13 @@ lint/tmp/
 *.recipe
 ipch
 *.obj
+*.tlog
+*.gch
+*.log
 /VSBuildSoTest/ASTestApp/.idea
 /VSBuildSoTest/VS2015SoProject/SharedObject1/ARM64/Release/SharedObject1.tlog
 /VSBuildSoTest/VS2015SoProject/SharedObject1/ARM/Debug/SharedObject1.tlog
 /VSBuildSoTest/VS2015SoProject/SharedObject1/x86/Debug/SharedObject1.tlog
+/VSBuildSoTest_CallBack/VS2015SoProject/SharedObject1/x86
+/VSBuildSoTest_CallBack/VS2015SoProject/SharedObject1/ARM
+/VSBuildSoTest_CallBack/VS2015SoProject/SharedObject1/ARM64
